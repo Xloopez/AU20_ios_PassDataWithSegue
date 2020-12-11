@@ -15,6 +15,7 @@
 		FC7871CA258375E20091858D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC7871C8258375E20091858D /* LaunchScreen.storyboard */; };
 		FC7871D5258375E30091858D /* PassDataWithSegueTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7871D4258375E30091858D /* PassDataWithSegueTests.swift */; };
 		FC7871E0258375E30091858D /* PassDataWithSegueUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7871DF258375E30091858D /* PassDataWithSegueUITests.swift */; };
+		FC7871F125837F620091858D /* DisplayResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7871F025837F620091858D /* DisplayResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FC7871DB258375E30091858D /* PassDataWithSegueUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassDataWithSegueUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC7871DF258375E30091858D /* PassDataWithSegueUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassDataWithSegueUITests.swift; sourceTree = "<group>"; };
 		FC7871E1258375E30091858D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC7871F025837F620091858D /* DisplayResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FC7871BF258375DE0091858D /* SceneDelegate.swift */,
 				FC7871C1258375DE0091858D /* ViewController.swift */,
 				FC7871C3258375DE0091858D /* Main.storyboard */,
+				FC7871F025837F620091858D /* DisplayResultViewController.swift */,
 				FC7871C6258375E20091858D /* Assets.xcassets */,
 				FC7871C8258375E20091858D /* LaunchScreen.storyboard */,
 				FC7871CB258375E20091858D /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC7871F125837F620091858D /* DisplayResultViewController.swift in Sources */,
 				FC7871C2258375DE0091858D /* ViewController.swift in Sources */,
 				FC7871BE258375DE0091858D /* AppDelegate.swift in Sources */,
 				FC7871C0258375DE0091858D /* SceneDelegate.swift in Sources */,
